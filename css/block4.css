@@ -1,0 +1,26 @@
+.block4{
+    width: 1200px;
+    height: 170px;
+    margin-left: 370px;
+}
+.block4 div{
+    float: left;
+    margin-top: 12px;
+    width: 288px;
+    height: 160px;
+}
+.block4 .div1{
+    background: url("../source/img/图层 11.png");
+    margin-right: 10px;
+}
+.block4 .div2{
+    background: url("../source/img/图层 11 拷贝.png");
+    margin-right: 10px;
+}
+.block4 .div3{
+    background: url("../source/img/图层 11 拷贝 2.png");
+    margin-right: 10px;
+}
+.block4 .div4{
+    background: url("../source/img/图层 11 拷贝 3.png");
+}

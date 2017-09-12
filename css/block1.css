@@ -1,0 +1,120 @@
+.block1{
+    width: 1920px;
+    height: 130px;
+    min-width: 1700px;
+    background: rgb(255,255,255);
+}
+.block1 .logo{
+    float: left;
+    margin-top: 27px;
+    margin-left: 370px;
+    background: url("../source/img/矢量智能对象.png");
+    width: 140px;
+    height: 80px;
+}
+.block1 .block1_right{
+    margin-left: 187px;
+    float: left;
+    width: 601px;
+    height: 130px;
+}
+.block1 .div1{
+    height: 52px;
+    float: left;
+}
+.block1 .div1 span{
+    font-size: 17px;
+    font-family: 宋体, serif;
+    display: block;
+    float: left;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 2px;
+    margin-top: 27px;
+}
+.block1 .div1 .span1{
+    background: rgb(0,141,225);
+    color: white;
+    width: 50px;
+    height: 25px;
+    margin-left: 47px;
+}
+.block1 .div1 .span2{
+    margin-left: 15px;
+}
+.block1 .div2{
+    height: 34px;
+    width: 499px;
+    float: left;
+    margin-left: 47px;
+    border: 2px solid rgb(0,141,225);
+}
+.block1 .div2 span{
+    font-family: 宋体, serif;
+    font-size: 12px;
+    color: rgb(153,153,153);
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 200px;
+}
+.block1 .div2 div{
+    float: left;
+    width: 46px;
+    height: 34px;
+    background: rgb(0,141,225);
+    margin-left: 243px;
+}
+.block1 .div2 img{
+    margin-top: 8px;
+    margin-left: 14px;
+}
+.block1 .div3{
+    font-family: 宋体, serif;
+    font-size: 12px;
+    height: 25px;
+    width: 500px;
+    float: left;
+    margin-left: 47px;
+}
+.block1 .div3 span{
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.block1 .block1_right_1{
+    width: 300px;
+    height: 104px;
+    float: left;
+    margin-top: 27px;
+}
+.block1 .block1_right_1 div{
+    float: left;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.block1 .block1_right_1 .div1{
+    width: 132px;
+    height: 36px;
+    background: rgb(249,249,249);
+    border: 1px solid rgba(211,211,211,0.9);
+    float: left;
+}
+.block1 .block1_right_1 .div1 .img1{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: block;
+    float: left;
+}
+.block1 .block1_right_1 .div1 .span01{
+    float: left;
+    margin-left: 10px;
+    margin-top: 7px;
+    display: block;
+}
+.block1 .block1_right_1 .div1 .img2{
+    margin-left: 5px;
+    margin-top: 15px;
+    display: block;
+    float: left;
+}

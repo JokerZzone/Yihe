@@ -1,0 +1,55 @@
+.block5{
+    height: 470px;
+}
+.block5 .div1{
+    height: 95px;
+    width: 1920px;
+}
+.block5 .div1 span{
+    font-family: 微软雅黑, serif;
+    font-size: 36px;
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.block5 .div1 .span1{
+    margin-left: 370px;
+    color: rgb(255,108,0);
+}
+.block5 .div1 .span2{
+    margin-left: 15px;
+    font-size: 18px;
+    margin-top: 50px;
+}
+.block5 .div2{
+    height: 375px;
+}
+.block5 .div2 .div2_1{
+    border-bottom: 1px solid rgb(228,228,228);
+    border-top: 3px solid rgb(0,141,225);
+    width: 1180px;
+    height: 375px;
+    float: left;
+    margin-left: 370px;
+    background: white;
+}
+.div2_1_1{
+    background: url("../source/img/图层 18.png");
+    float: left;
+    width: 316px;
+    height: 349px;
+    margin: 10px;
+}
+.div2_1_2{
+    float: left;
+    width: 830px;
+    height: 349px;
+    margin-top: 10px;
+}
+.block5 .div2 img{
+    float: left;
+    width: 205px;
+    height: 114px;
+    border: 1px solid rgb(228,228,228);
+}
+

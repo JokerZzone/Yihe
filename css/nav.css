@@ -1,0 +1,19 @@
+.nav{
+    width: 575px;
+    height: 470px;
+    position: absolute;
+    left: 370px;
+    top: 212px;
+}
+.nav .div01{
+    width: 175px;
+    height: 470px;
+    background: rgba(64,64,64,0.8);
+}
+.check{
+    width: 175px;
+    height: 46px;
+    position: absolute;
+    margin-left: 370px;
+    margin-top: -47px;
+}

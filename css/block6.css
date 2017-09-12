@@ -1,0 +1,88 @@
+.block6{
+    height: 600px;
+}
+.block6 .div1{
+    height: 65px;
+    width: 1190px;
+    margin-left: 370px;
+    margin-top: 5px;
+    float: left;
+}
+.block6 .div1 .left{
+    width: 327px;
+    float: left;
+}
+.block6 .div1 .left div{
+    float: left;
+    width: 23px;
+    height: 25px;
+    margin-top: 25px;
+}
+.block6 .div1 span{
+    font-family: 微软雅黑, serif;
+    font-size: 24px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 17px;
+}
+.block6 .div1 .right{
+    width: 428px;
+    float: left;
+}
+.block6 .div1 .right span{
+    font-size: 18px;
+    float: left;
+    margin-top: 25px;
+    margin-left: 60px;
+}
+.block6 .div2{
+    width: 1190px;
+    height: 550px;
+    background: white;
+    float: left;
+    margin-left: 370px;
+    border-top: 3px solid rgb(0,141,225);
+}
+.block6 .div2 .lf{
+    float: left;
+    margin: 10px;
+    margin-right: 0;
+    height: 511px;
+    width: 316px;
+}
+.block6 .div2 .rg{
+    float: left;
+    height: 540px;
+    width: 850px;
+}
+.block6 .rg .item{
+    margin: 10px;
+    margin-right: 0;
+    margin-bottom: 0;
+    float: left;
+    border: 1px solid rgb(228,228,228);
+}
+.block6 .it1{
+
+}
+.block6 .it2{
+    width: 270px;
+    height: 100px;
+}
+.block6 .it2_1{
+    margin: 10px;
+    margin-bottom: 0;
+    display:inline-block;
+    width: 250px;
+}
+.block6 .it2 span{
+    float: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 0;
+}
+.block6 .item .i1{
+    width: 15px;
+    height: 17px;
+    float: left;
+}
